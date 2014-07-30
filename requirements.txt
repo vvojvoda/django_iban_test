@@ -1,0 +1,4 @@
+Django==1.6.5
+django-countries==2.1.2
+django-iban==0.2.8
+wsgiref==0.1.2
